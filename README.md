@@ -1,9 +1,9 @@
 <h1 align="center">
   IValorant-api
 </h1>
-This is a valorant-api. Made for Wechat-Small-Programme, also can use as a valorant-api store checker.
+<p align="center">This is a valorant-api. Made for Wechat-Small-Programme, also can use as a valorant-api store checker.</p>
 
-这是一个瓦罗兰特API。为微信小程序“瓦爱小店”制作，也可以作为一个瓦洛兰特API商店查看器。
+<p align="center">这是一个瓦罗兰特API。为微信小程序“瓦爱小店”制作，也可以作为一个瓦洛兰特API商店查看器。</p>
 
 API based by Python/Flask
 # Special Thanks
